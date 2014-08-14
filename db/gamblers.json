@@ -1,0 +1,31 @@
+{
+  "_id":{"$oid":"000000000000000000000001"},
+  "name":"Bob Jones",
+  "photo":"http://static0.therichestimages.com/cdn/318/318/90/cw/wp-content/uploads/Derrick-Rose.jpg",
+  "spouse":{"name":"Sara", "photo":"http://www.essence.com/sites/default/files/images/2012/01/30/gabrielle-union-400x295.jpg"},
+  "cash":1000,
+  "assets":[{"name":"ring", "photo":"http://www.jmedwardsjewelry.com/wp-content/uploads/2011/11/Diamond-Engagement-Ring-101-10036-41.jpg", "value":4000}],
+  "results":{"wins":5, "losses":3}
+}
+
+{
+  "_id":{"$oid":"000000000000000000000002"},
+  "name":"Nick Black",
+  "photo":"http://i2.cdnds.net/13/34/618x397/lebron-james.jpg",
+  "spouse":{"name":"Col", "photo":"http://media-cache-ec0.pinimg.com/avatars/nicolblakely_1349143989_140.jpg"},
+  "cash":2500,
+  "assets":[{"name":"ring", "photo":"http://www.hdwallpaperscool.com/wp-content/uploads/2013/12/ring-jewelry-high-definition-wallpapers-cool-desktop-widescreen-pictures.jpg", "value":5000}],
+  "results":{"wins":2, "losses":10}
+}
+
+{
+  "_id":{"$oid":"000000000000000000000003"},
+  "name":"Ed B",
+  "photo":"http://s3-us-west-2.amazonaws.com/hypebeast-wordpress/image/2012/10/dwyane-wade-dumps-jordan-brand-for-li-ning-0.jpg",
+  "spouse":{"name":"Kita", "photo":"http://www.bet.com/news/celebrities/2011/08/03/the-playboy-club-star-is-set-to-star-in-the-wolverine/_jcr_content/featuredMedia/newsitemimage.newsimage.dimg/062911-fashion-buzz-Naturi-Naughton-Vibe.jpg"},
+  "cash":500,
+  "assets":[{"name":"ring", "photo":"http://dimemag.com/wp-content/uploads/2010/10/2010-Lakers-Championship-Ring.jpg", "value":5000}],
+  "results":{"wins":15, "losses":1}
+}
+
+
